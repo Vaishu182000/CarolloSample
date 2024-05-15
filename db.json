@@ -1,26 +1,14 @@
 {
-  "success": true,
-  "message": "Request processed successfully.",
-  "data": {
-    "employeeInfo": {
-      "processName": "Mid Year Comments",
-      "employeeId": 1463,
-      "fullName": "Terry Richard",
-      "cdpyear": 2021,
-      "cdpyearRange": "2021 - 2022",
-      "jobTitle": "Regional Marketing Manager",
-      "trackId": 17,
-      "trackName": "Marketing Coordinators Track",
-      "startDate": "2022-04-01T00:00:00",
-      "endDate": "2022-05-06T00:00:00",
-      "status": "Completed"
-    },
-    "midYearComments": {
-      "checkInId": "1995",
-      "checkInDateTitle": "Mid-year Check-in",
-      "checkinDate": "2022-05-06T15:21:07.397",
-      "checkInCommentTitle": "Mid-Year Comments",
-      "checkinComments": "Comments"
-    }
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
