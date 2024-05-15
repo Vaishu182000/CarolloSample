@@ -1,14 +1,33 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "data": {
+    "moduleName": "CompletionAndSignatures",
+    "reviewer": {
+      "groupName": "Reviewer",
+      "title": "Complete Performance Review",
+      "signature": "Jessica Dresang",
+      "isSigned": true
+    },
+    "employee": {
+      "groupName": "Employee",
+      "title": "Send Feedback and Sign Performance Review",
+      "comment": null,
+      "signature": "Richard Terry",
+      "isSigned": true
+    },
+    "performanceReviewerSignatureDetails": {
+      "title": "Performance Review Signature Details",
+      "signatureDetailsDto": [
+        {
+          "participant": "Reviewer",
+          "signature": "Jessica Dresang",
+          "dateStamp": "2022-05-06T15:18:03.657"
+        },
+        {
+          "participant": "Employee",
+          "signature": "Richard Terry",
+          "dateStamp": "2022-05-06T15:21:07.397"
+        }
+      ]
+    }
   }
 }
