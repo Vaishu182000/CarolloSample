@@ -1,6 +1,4 @@
 {
-  "success": true,
-  "message": "Request processed successfully.",
   "data": {
     "moduleName": "CompletionAndSignatures",
     "reviewer": {
