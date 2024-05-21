@@ -1,5 +1,4 @@
 {
-  "comments": {
     "employeeInfo": {
       "processName": "Mid Year Comments",
       "employeeId": 1463,
@@ -13,45 +12,26 @@
       "endDate": "2022-05-06T00:00:00",
       "status": "Completed"
     },
-    "midYearComments": {
-      "checkInId": "1995",
-      "checkInDateTitle": "Mid-year Check-in",
-      "checkinDate": "2022-05-06T15:21:07.397",
-      "checkInCommentTitle": "Mid-Year Comments",
-      "checkinComments": "Richard's midyear review was very positive this year; similarly to previous years as Marketing Manager for the Phoenix Creative Marketing Team (CMT) and for the Southwest overall.  We appreciate his leadership and guidance of local staff and contributions nationally within the CMT. The summary below highlights specific discussion items during the review.\r\n \r\n-Richard manages the workload of both himself and the group with ease. He recognizes when pursuits need outside support and balances those efforts with strategic opportunities that would be best handled locally. One of the key aspects that contributes to his success in this manner is his ability to work with and collaborate with others around the company. \r\n \r\n-Richard has had opportunities to promote quality through providing backchecks of larger pursuits through red team review. He will continue to seek chances to continue to provide this support, and is off to a great start. \r\n \r\n-Richard continues to provide guidance and mentoring to Kacie and Rebecca, and now most recently Alissa, all while supporting Teressa. He provides a great balance in our group that both offers support, but also identifying challenges and working to solve/rectify when they occur.  And as a result, we are seeing great improvement in Kacie and Rebecca this past 6 months, as well as leadership growth with Teressa. \r\n \r\n-Richard helps prioritize keeping vision up to date and the efforts needed to set up pursuit numbers. This is greatly appreciated by our BDMs and CSMs, especially when there are a number of pursuits in house and/or there are concentrated efforts to update our opportunities/wins lists. \r\n \r\n-Richard continues to help us stay organized and does a fantastic job managing our team's efforts and resource needs to complete our work. He is well connected in the CMT and works to engage others where needed, while also offering our team's help when there is availability.\r\n \r\n-Richard worked to guide Lynne Berry during her time at Carollo and maintain professionalism as work product and performance was not up to standards. He followed all protocols and procedures while working with multiple leaders to navigate the termination process appropriately. \r\n \r\n-Richard supports pursuits of all sizes, and the Company will continue to leverage his expertise, and foster his growth, through engagement on top 20 pursuits.. \r\n \r\n-We encourage Richard to continue to foster communication, mentoring, creativity, and camaraderie through leadership as Marketing Manger of the Phoenix (southwest) marketing group and support our client service managers as he has been doing since day 1. \r\n \r\n-Richard fosters open and honest conversation and collaboration with Jessica (BDM) when there are concerns with the group that need to be elevated (also for general guidance when needed) and collaborates on identifying appropriate next steps and processes to navigate group challenges effectively. \r\n \r\n-Richard supports CMT-wide committees and efforts where needed and is always eager and willing to support. \r\n \r\n-We appreciate Richard's hard work and presence at Carollo! Keep up the great work!\r\n \r\n \r\n "
-    }
-  },
-  "completions": {
-    "moduleName": "CompletionAndSignatures",
-    "reviewer": {
-      "groupName": "Reviewer",
-      "title": "Complete Performance Review",
-      "signature": "Jessica Dresang",
-      "isSigned": true
-    },
-    "employee": {
-      "groupName": "Employee",
-      "title": "Send Feedback and Sign Performance Review",
-      "comment": null,
-      "signature": "Richard Terry",
-      "isSigned": true
-    },
-    "performanceReviewerSignatureDetails": {
-      "title": "Performance Review Signature Details",
-      "signatureDetailsDto": [
-        {
-          "participant": "Reviewer",
-          "signature": "Jessica Dresang",
-          "dateStamp": "2022-05-06T15:18:03.657"
-        },
-        {
-          "participant": "Employee",
-          "signature": "Richard Terry",
-          "dateStamp": "2022-05-06T15:21:07.397"
+    "rbtAdvancement": {
+        "levels": [
+            {"key": "Proposed RBT Level", "value": "Professional"},
+            {"key": "Current RBT Level", "value": "Staff"},
+            {"key": "Current CT Level", "value": "-"},
+            {"key": "Years of Experience", "value": "6"},
+            {"key": "CDP Level", "value": "Level 4"}
+        ],
+        "rbtResponse": {
+            "rbtAcknowledge": "yes",
+            "justification": ""
         }
-      ]
+    },
+    "qualifications": {
+        "description": "Amet urna mi volutpat ac. Sed tortor ultricies sed sit imperdiet. Porttitor vitae dolor viverra viverra et ipsum tortor. Bibendum bibendum tellus elementum venenatis netus. Urna diam nam facilisi morbi sed. Pellentesque id sed parturient feugiat eget bibendum. Aliquet amet donec risus augue velit tincidunt. Iaculis et tempus non volutpat donec qui.",
+        "qualificationTable": [
+            {"key": "Professional Registrations", "value": "yes"},
+            {"key": "Minimum CDP Level of 2", "value": "no"},
+            {"key": "Professional Registrations", "value": "yes"},
+            {"key": "Typical Years of Experience: 2 to 6 Years", "value": "no"}
+        ]
     }
-  },
-  "response": {
-  }
 }
