@@ -34,5 +34,27 @@
             {"key": "Typical Years of Experience: 2 to 6 Years", "value": "no"}
         ]
     },
-    "response": {}
+    "response": {},
+    "report": {
+        "label": "MIDYEAR-CHECKIN 2021",
+        "employee": "Andrews, Craig",
+        "employeeId": 6499,
+        "cdpYear": 2021,
+        "track": "Client Services Track",
+        "trackId": 1,
+        "reviewers": {
+          "primaryReviewer": "Avon, Brian",
+          "secondaryReviewer": "Marshall, Jon"
+        },
+        "comments": {
+          "checkInDate": "2022-05-10T13:31:17.27",
+          "checkInComments": "Craig and I got together and talked about the past year. He continues to work with me on most of my projects. Craig continues to be a sought after commodity in the infrastructure group. He will be sitting for the PE later next week. Craig would like to have opportunities to be a PM on small infrastructure projects and sit more in the PE role. It would also be good to get him involved in some proposals to gain additional experience."
+        },
+        "signatures": {
+          "reviewerSignature": "Brian Avon",
+          "reviewerSignatureDate": "2022-05-02T12:14:15.64",
+          "employeeSignature": "Craig Andrews",
+          "employeeSignatureDate": "2022-05-10T13:31:17.27"
+        }
+    }
 }
