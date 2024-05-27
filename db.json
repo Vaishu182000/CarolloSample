@@ -22,7 +22,8 @@
         ],
         "rbtResponse": {
             "rbtAcknowledge": "yes",
-            "justification": ""
+            "rbtDescription": "Sample Description",
+            "justification": "Sample Justification"
         }
     },
     "qualifications": {
