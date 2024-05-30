@@ -67,35 +67,37 @@
         "position": "",
         "dateHired": "",
         "employeeName": "",
-        "jobKnowledge": {
-            "description": "",
-            "feedback": "",
-            "comments": ""
-        },
-        "qualityOfWork": {
-            "description": "",
-            "feedback": "",
-            "comments": ""
-        },
-        "communication": {
-            "description": "",
-            "feedback": "",
-            "comments": ""
-        },
-        "teamWork": {
-            "description": "",
-            "feedback": "",
-            "comments": ""
-        },
-        "problemSolving": {
-            "description": "",
-            "feedback": "",
-            "comments": ""
-        },
-        "jobSpecificResponsibilites": {
-            "description": "",
-            "feedback": "",
-            "comments": ""
+        "questions": {
+            "jobKnowledge": {
+                "description": "",
+                "feedback": "",
+                "comments": ""
+            },
+            "qualityOfWork": {
+                "description": "",
+                "feedback": "",
+                "comments": ""
+            },
+            "communication": {
+                "description": "",
+                "feedback": "",
+                "comments": ""
+            },
+            "teamWork": {
+                "description": "",
+                "feedback": "",
+                "comments": ""
+            },
+            "problemSolving": {
+                "description": "",
+                "feedback": "",
+                "comments": ""
+            },
+            "jobSpecificResponsibilites": {
+                "description": "",
+                "feedback": "",
+                "comments": ""
+            }
         },
         "employeesResponse": [
             {
