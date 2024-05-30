@@ -57,5 +57,64 @@
           "employeeSignature": "Craig Andrews",
           "employeeSignatureDate": "2022-05-10T13:31:17.27"
         }
+    },
+    "ninetyDaysReport": {
+        "label": "90 Day Evaluation Form",
+        "employee": "Andrews, Craig",
+        "employeeId": 6499,
+        "cdpYear": 2021,
+        "office": "",
+        "position": "",
+        "dateHired": "",
+        "employeeName": "",
+        "jobKnowledge": {
+            "description": "",
+            "feedback": "",
+            "comments": ""
+        },
+        "qualityOfWork": {
+            "description": "",
+            "feedback": "",
+            "comments": ""
+        },
+        "communication": {
+            "description": "",
+            "feedback": "",
+            "comments": ""
+        },
+        "teamWork": {
+            "description": "",
+            "feedback": "",
+            "comments": ""
+        },
+        "problemSolving": {
+            "description": "",
+            "feedback": "",
+            "comments": ""
+        },
+        "jobSpecificResponsibilites": {
+            "description": "",
+            "feedback": "",
+            "comments": ""
+        },
+        "employeesResponse": [
+            {
+                "question": "",
+                "comments": ""
+            },
+            {
+                "question": "",
+                "comments": ""
+            }
+        ],
+        "actions": "",
+        "evaluationPeriod": "",
+        "evalutionExtension": "30",
+        "signatures": {
+          "reviewerSignature": "Brian Avon",
+          "reviewerSignatureDate": "2022-05-02T12:14:15.64",
+          "employeeSignature": "Craig Andrews",
+          "employeeSignatureDate": "2022-05-10T13:31:17.27"
+        }
     }
 }
