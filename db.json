@@ -37,7 +37,7 @@
     },
     "response": {},
     "report": {
-        "label": "MIDYEAR-CHECKIN 2021",
+        "label": "CDP Advancement 2023-2o24",
         "employee": "Andrews, Craig",
         "employeeId": 6499,
         "cdpYear": 2021,
@@ -47,15 +47,17 @@
           "primaryReviewer": "Avon, Brian",
           "secondaryReviewer": "Marshall, Jon"
         },
-        "comments": {
-          "checkInDate": "2022-05-10T13:31:17.27",
-          "checkInComments": "Craig and I got together and talked about the past year. He continues to work with me on most of my projects. Craig continues to be a sought after commodity in the infrastructure group. He will be sitting for the PE later next week. Craig would like to have opportunities to be a PM on small infrastructure projects and sit more in the PE role. It would also be good to get him involved in some proposals to gain additional experience."
+        "advancement": {
+            "type": "RBT",
+            "level": "principal",
+            "recommendation": "RBT Recommendation Denied"
         },
-        "signatures": {
-          "reviewerSignature": "Brian Avon",
-          "reviewerSignatureDate": "2022-05-02T12:14:15.64",
-          "employeeSignature": "Craig Andrews",
-          "employeeSignatureDate": "2022-05-10T13:31:17.27"
-        }
+        "qualifications": [
+            {"question": "Professional Registrations", "answer": "Yes"},
+            {"question": "Minimum CDP Level of 2", "answer": "No"},
+            {"question": "Professional Registrations", "answer": "Yes"},
+            {"question": "Typical Years of Experience: 2 to 6 Years", "answer": "No"}
+        ],
+        "justification": ""
     }
 }
